@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXXZuQmH/SyoAJbnq6ktZzD16K2DmE16IkodxFAXEgs5ogAi69kvtcjI/F5rsAJQiTaV1SDtU5stWVkWHoXC1A==",
+  "success": true,
+  "projectFilePath": "/home/renatoalexandre/Documentos/Cursos/DIO.Series/DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "/home/renatoalexandre/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/renatoalexandre/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
